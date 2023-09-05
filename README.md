@@ -1,1 +1,1 @@
-# EDA_Loggi
+O propósito desta análise de dados é investigar os desafios logísticos enfrentados pelos hubs regionais da Loggi. Nosso objetivo principal é compreender o impacto dessas questões na eficácia das entregas e identificar estratégias para aprimorá-las. Através da exploração desses dados, almejamos adquirir conhecimentos valiosos sobre as rotas de entrega em uso atualmente e, com base nisso, oferecer recomendações visando torná-las mais eficazes e ágeis.
